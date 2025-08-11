@@ -1,9 +1,9 @@
-# FinTech-Customer-Retnetion-and-Churn-Analysis
+# FinTech-Customer-Retnetion-and-Churn-Analysis (Python, SQL, Tableau)
 
 
 
 ## Overview
-This project analyzes customer engagement, retention, and churn for a fintech platform offering services like:
+This project analyses customer engagement, retention, and churn for a fintech platform offering services like:
 - Money transfers
 - Airtime/Data top-up
 - Bill payments
@@ -59,8 +59,7 @@ The analysis helps **Product Managers, Marketing, and Customer Support teams** m
 ## 🚀 How to Use
 1. Clone this repository  
 2. Run `.sql` files in SQL Server Management Studio  
-3. Connect output tables to Tableau for visualization  
-4. Use the dashboard to track churn and retention
+
 
 ---
 
